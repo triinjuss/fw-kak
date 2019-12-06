@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Fachwerk materials
+  </title>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Kuressaare Ametikool materials">
+  <link rel="stylesheet" href="https://designstem.github.io/fachwerk/fachwerk.css">
+  <style>
+    :root {
+      --wall-tile-overlay-color: hsla(240, 7%, 11%, 0.8);
+      --wall-tile-title-background: none;
+      --important: var(--red);
+    }
+    body{
+      background: #f2f1f2;
+    }
+    .menu {border-right:1px solid var(--lightgray)}
+
+    .main-header{
+      position:static; 
+      width:100%; 
+      display:flex; 
+      justify-content:space-between; 
+      align-items:center; 
+      padding:1vh 1vw; 
+      top:0; 
+      background:var(--background); 
+      box-shadow:0 1px 3px 0 hsla(0,0%,0%,0.25); 
+      height:8vh;
+    }
+    .main-header__nav{
+      flex:1;
+      display:flex;
+      justify-content:space-around;
+    }
+    .main-header__nav>span {
+      font-weight: bold;
+      color:var(--secondary);
+      cursor:pointer;
+      transition: all 0.5s ease-in-out;
+    }
+    .main-header__nav>span:hover {
+      color:var(--blue);
+      cursor:pointer;
+    }
+  </style>
+</head>
+<body>
+  <div id="fachwerk"></div>
+  <script src="./index.js" type="module"></script>
+</body>
+</html>
