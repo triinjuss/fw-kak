@@ -210,6 +210,8 @@ https://www.youtube.com/watch?v=QFrqTFRy-LU
 
 http://stat24.ee/
 
+https://blog.ut.ee/30-maps-of-estonia-in-30-days/ 🆕
+
 https://www.facebook.com/mirxz/videos/10155810555378563/
 
 https://public.tableau.com/profile/christina025#!/vizhome/Sidukidfinish2/Arvelolevadsiduautod
@@ -246,6 +248,8 @@ http://andmebaas.stat.ee/
 
 
 https://www.pubnub.com/developers/realtime-data-streams/
+
+https://trends.google.com/trends/
 
 täieneb...
 
