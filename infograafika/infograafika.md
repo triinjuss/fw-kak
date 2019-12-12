@@ -193,6 +193,8 @@ http://radio.garden
 
 https://vimeo.com/135580602
 
+https://neal.fun/deep-sea - scrollllllllllllll
+
 -
 
 ### *Big Data*
@@ -258,7 +260,11 @@ https://www.pubnub.com/developers/realtime-data-streams/
 
 https://trends.google.com/trends/
 
-täieneb...
+https://ec.europa.eu/eurostat/ - EU
+
+https://github.com/awesomedata/awesome-public-datasets 
+
+https://towardsdatascience.com/top-10-great-sites-with-free-data-sets-581ac8f6334 - valik andmeportaale
 
 
 ---
