@@ -7,13 +7,20 @@
 
 -
 
-# <big><big><big>Inf◕graafika</big></big></big>
+<!-- # <big><big><big>Inf◕&shy;graafika</big></big></big> -->
+
+<h1 style="--base:2.1vw;">Inf◕&shy;graafika</h1>
     
 ~*väike ülevaade teemast abiks alustavale infograafikule*~
+
+~<small>*PS: dokument täieneb*</small>~
+
 
 <f-link to="Mis?">Alustame</f-link> <f-arrow-icon />
 
 -
+
+<!-- <f-notes title="Lisa">HEi hei</f-notes> -->
 
 ---
 
@@ -309,6 +316,51 @@ https://www.visualcinnamon.com/resources/learning-data-visualization/books
 
 
 
+| gap: 7vh
+| cols: 1fr 2fr
+| rows: 25vh auto
 | section: Tööriistad, abivahendid
+| 1 1
+| 2 3
+| 4 5
+| 6 7
+| 8 9
+| 10 11
 
-Täieneb...
+## Tööriistad, abivahendid
+
+-
+
+### *Andme&shy;visualisat&shy;sioonid*
+
+-
+
+https://flourish.studio/
+
+-
+
+### *Kood*
+
+-
+
+https://d3js.org/ 
+
+-
+
+### *Disain*
+
+-
+
+https://coolors.co/ - värvipaletid
+
+https://figma.com/ - vektorgraafika, prototüübid
+
+-
+
+### *UI, ikoonid, piktogrammid*
+
+-
+
+https://material.io/resources/icons/
+
+https://materialdesignicons.com/
