@@ -295,6 +295,8 @@ http://numberpicture.com
 
 ### *Uudised, blogid*
 
+https://www.reddit.com/r/dataisbeautiful/ 📌
+
 https://informationisbeautiful.net/beautifulnews/
 
 http://www.visualisingdata.com/
