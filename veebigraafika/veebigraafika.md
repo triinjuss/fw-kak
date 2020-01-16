@@ -15,6 +15,8 @@
 
 ~<small>*PS: dokument täieneb, ülevaate muudatustest saab <f-link to="https://github.com/ooker/fw-kak/commits/master/veebigraafika/veebigraafika.md">siit</f-link>*</small>~
 
+***NB! Hetkel ei ole materjal veel kasutuskõlblik!***
+
 
 <f-link to="Mis?">Alustame</f-link> <f-arrow-icon />
 
@@ -76,6 +78,40 @@ Nii väga kui me ka ei hooliks kaunist emakeelest, olgu siin kohe ära toodud ka
 
 
 
+
+
+
+
+
+
+| chapter: Disainiprintsiibid
+| section: Mis vahet seal on?
+
+## *Kas kasutajaliideste disain on kuidagi eriline*
+
+Tiba ikka. Tuleme selle juurde tagasi kui siin rohkem sisu on.
+
+---
+
+
+
+
+| section: Tüpograafia
+
+## *Tüpograafia*
+
+"Raleway" ei tööta väikeselt, nohh!!!
+
+---
+
+
+
+
+| section: Värv ja kontrast
+
+## Värvist ja kontrastist
+
+---
 
 
 

@@ -66,7 +66,7 @@ new Vue({
     <f-fetch :src="[
         'veebigraafika.md'
       ]" v-slot="{ value: content }">
-      <f-content-editor type="slides" edit="none" menu="hide" typebutton="false" title="KAK" :content="content" />
+      <f-content-editor type="slides" edit="none" menu="show" typebutton="false" title="KAK" :content="content" />
     </f-fetch>
   </div>
   `
