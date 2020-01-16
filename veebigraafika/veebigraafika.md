@@ -13,7 +13,7 @@
     
 ~*väike ülevaade teemast abiks alustavale disainerile*~
 
-~<small>*PS: dokument täieneb*</small>~
+~<small>*PS: dokument täieneb, ülevaate muudatustest saab <f-link to="https://github.com/ooker/fw-kak/commits/master/veebigraafika/veebigraafika.md">siit</f-link>*</small>~
 
 
 <f-link to="Mis?">Alustame</f-link> <f-arrow-icon />
@@ -45,11 +45,14 @@
 
 -
 
-### *Oot, millest me üldse räägime?*
+### *Oot, millest me siin praegu üldse räägime?*
+
+<small>***Veebigraafika*** kõlab nagu mõni veider <f-link to="https://en.wikipedia.org/wiki/Netscape_Navigator">Netscape Navigatori</f-link> ja koopiamasinate abil 1999. aastal loodud kunstiprojekt või heal juhul nagu mingid illustratsioonid või ikoonid veebilehel. Aga see ei ole siiski meie põhiteema.</small>
 
 -
 
-<var>Veebigraafika</var> kipub olema mõiste, mida kasutatakse peamiselt eesti haridusväljal. <f-link to="https://www.google.com/search?q=veebigraafika&oq=veebigraafika">Googeldades</f-link> tulevad välja esmalt näiteks TLÜ, HTM, HITSA, erinevad koolituste pakkujad jne. Selle lehe pealkirja on väljend *veebigraafika* sattunud seetõttu, et tegemist on Kuressaare Ametikooli õppematerjaliga ja ka meie õppekavades on see mõistena sees.
+<var>Veebigraafika</var> kipub olema mõiste, mida kasutatakse peamiselt eesti haridusväljal. <f-link to="https://www.google.com/search?q=veebigraafika&oq=veebigraafika">Googeldades</f-link> tulevad välja esmalt näiteks TLÜ, HTM, HITSA, erinevad koolituste pakkujad jne. 
+Siinse lehe pealkirjaks on väljend *veebigraafika* sattunud peamiselt seetõttu, et tegemist on Kuressaare Ametikooli õppematerjaliga ja ka meie õppekavades on see mõistena sees.
 
 #### Millest me *TEGELIKULT* räägime?
 
@@ -57,7 +60,7 @@ Levinum ja arusaadavam on ilmselt mõiste <var>veebidisain</var>, aga ka seda pe
 
 Seetõttu võiks sõna *veeb* asendada universaalsema mõistega <var>kasutajaliides</var>. Täpsemalt siis <var>digitaalne kasutajalides</var>.
 
-Ilmselt see materjal sinna väga süvitsi ei küündi, aga ära märkimata ei saa jätta ka kasutajaliidese välimuse, funktsionaalsuse, kasutajamugavuse ja "maagia" koostoimel tekkivat <var>kasutajakogemust</var>.
+Ilmselt see konkreetne ülevaade siin selleni väga süvitsi ei küündi, aga ära märkimata ei saa jätta ka kasutajaliidese välimuse, funktsionaalsuse, kasutajamugavuse ja "maagia" koostoimel tekkivat <var>kasutajakogemust</var>.
 
 -
 
@@ -65,62 +68,12 @@ Ilmselt see materjal sinna väga süvitsi ei küündi, aga ära märkimata ei sa
 
 -
 
-Nii väga kui ma ka ei hooli kaunist emakeelest, toon ma siia kohe ära ka inglise keelsed vasted &ndash; just need on sõnad, mida sa edaspidi pead googeldama hakkama.
+Nii väga kui ma ka ei hooli kaunist emakeelest, toon ma siia kohe ära ka inglise keelsed vasted &ndash; sest just need on sõnad, mida sa pead edaspidi googeldama hakkama.
 
-**UI** on siis *User Interface*, ehk kasutajaliides ja **UX** on lühend *User eXperience*-st ehk kasutajakogemus. 
-
----
-
-
-
-
-
-
-
-| section: Näited
-| gap: 7vh
-| cols: 1fr 2fr
-| rows: 25vh auto
-| 1 1
-| 2 3
-| 4 5
-| 6 7
-| 8 9
-| 10 11
-| 12 13
-| 14 15
-| 16 17
-
-# Infograafika näiteid
-
--
-
-### *Ajakirjandus*
-
-Mõned näited infograafika kasutamisest ajakirjanduses
-
--
-
-https://www.flickr.com/photos/ffranchi/albums/72157594391287046
-
-https://www.flickr.com/groups/snd/pool/
-
-https://www.flickr.com/photos/kuukosmonaut/sets/72157628038307615/
-
-https://www.pinterest.com/search/pins/?q=newspaper%20infographics
-
-NewYorkTimes:
-https://www.nytimes.com/interactive/2018/us/2018-year-in-graphics.html 
-
--
-
-### *Varia*
-
--
-
-http://dataphys.org/list/gallery/
+**UI** on siis *User Interface*, ehk see sama kasutajaliides ja **UX** on lühend *User eXperience* ehk kasutajakogemuse jaoks. 
 
 ---
+
 
 
 
@@ -136,31 +89,17 @@ http://dataphys.org/list/gallery/
 
 ### *Uudised, blogid*
 
-https://www.reddit.com/r/dataisbeautiful/ 📌
-
-https://informationisbeautiful.net/beautifulnews/
-
-http://www.visualisingdata.com/
-
-https://blog.datawrapper.de/
-
-https://flowingdata.com/
-
-https://policyviz.com/blog/
-
-http://vizualize.tumblr.com
-
-http://datastori.es/
+Add stuff here
 
 -
 
 ### *Podcastid*
 
-https://policyviz.com/podcast/
-
-https://www.visualcinnamon.com/resources/learning-data-visualization/books
+Add stuff here
 
 ---
+
+
 
 
 
@@ -180,29 +119,35 @@ https://www.visualcinnamon.com/resources/learning-data-visualization/books
 
 -
 
-### *Andme&shy;visualisat&shy;sioonid*
+### *Disain/prototüüp*
 
 -
 
-https://flourish.studio/
+https://figma.com/
 
 -
 
-### *Kood*
+### *Teooria / printsiibid*
 
 -
 
-https://d3js.org/ 
+will be here
 
 -
 
-### *Disain*
+### *Tüpograafia*
+
+-
+
+
+
+-
+
+### *Värv*
 
 -
 
 https://coolors.co/ - värvipaletid
-
-https://figma.com/ - vektorgraafika, prototüübid
 
 -
 
