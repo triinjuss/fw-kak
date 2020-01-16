@@ -68,7 +68,7 @@ Ilmselt see konkreetne ülevaade siin selleni väga süvitsi ei küündi, aga ä
 
 -
 
-Nii väga kui ma ka ei hooli kaunist emakeelest, toon ma siia kohe ära ka inglise keelsed vasted &ndash; sest just need on sõnad, mida sa pead edaspidi googeldama hakkama.
+Nii väga kui me ka ei hooliks kaunist emakeelest, olgu siin kohe ära toodud ka inglise keelsed vasted &ndash; just need on sõnad, mida sa pead edaspidi googeldama hakkama.
 
 **UI** on siis *User Interface*, ehk see sama kasutajaliides ja **UX** on lühend *User eXperience* ehk kasutajakogemuse jaoks. 
 
