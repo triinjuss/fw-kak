@@ -343,7 +343,13 @@ https://www.visualcinnamon.com/resources/learning-data-visualization/books
 
 -
 
+https://app.rawgraphs.io/
+
+https://chart-studio.plot.ly/create/#/
+
 https://flourish.studio/
+
+https://datamatic.io/
 
 -
 
